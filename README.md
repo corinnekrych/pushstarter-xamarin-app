@@ -1,13 +1,13 @@
 # pushstarter-xamarin-app
 
-Author: Erik Jan de Wit   
-Level: Intermediate  
+Author: Erik Jan de Wit
+Level: Intermediate
 Technologies: C#, Xamarin, iOS, Android, RHMAP
 Summary: A demonstration of how to include basic push functionality with RHMAP.
 Community Project : [Feed Henry](http://feedhenry.org)
-Target Product: RHMAP  
-Product Versions: RHMAP 3.7.0+   
-Source: https://github.com/feedhenry-templates/pushstarter-ios-app  
+Target Product: RHMAP
+Product Versions: RHMAP 3.7.0+
+Source: https://github.com/feedhenry-templates/pushstarter-ios-app
 Prerequisites: fh-dotnet-sdk : 3.+, Xamarin Studio : 5.2+, iOS SDK : iOS7+
 
 ## What is it?
