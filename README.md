@@ -1,7 +1,6 @@
 # pushstarter-xamarin-app
 
 Author: Erik Jan de Wit 
-
 Level: Intermediate 
 Technologies: C#, Xamarin, iOS, Android, RHMAP 
 Summary: A demonstration of how to include basic push functionality with RHMAP. 
